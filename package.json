@@ -1,0 +1,21 @@
+{
+  "name": "back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-openapi": "^6.0.0",
+    "swagger-express-mw": "^0.7.0",
+    "swagger-ui-dist": "^3.28.0",
+    "swagger-ui-express": "^4.1.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node  app/src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
