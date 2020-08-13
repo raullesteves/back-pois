@@ -15,7 +15,7 @@ Este projeto tem como premissa demonstrar uma api que retorna pois obtidos a par
 
 ### Utilizando
 
-A documentação estará disponivel em `https://localhost:4000/docs`
+A documentação estará disponivel em `http://localhost:4000/docs`
 
 ## Author
 
